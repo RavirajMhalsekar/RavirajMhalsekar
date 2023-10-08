@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something interesting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Nextjs Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
