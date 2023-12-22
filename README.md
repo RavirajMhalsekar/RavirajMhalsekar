@@ -14,8 +14,6 @@ Here are some ideas to get you started: -->
 
 <img  src="https://user-images.githubusercontent.com/71785923/223479190-ccc17f10-effa-452e-be59-a8cd86045bf5.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
-
 - 🔭 I’m currently working on `Something interesting`.
 
 - 🌱 I’m currently learning `Nextjs Stack`
