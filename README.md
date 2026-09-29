@@ -79,7 +79,7 @@ Building workflows using **N8N + LLMs** for real operational use cases such as:
 
 Building the surrounding product layer using:
 
-**React · Next.js · Angular · FastAPI · Node.js · NestJS · PostgreSQL · MongoDB**
+**React · Python · Next.js · Angular · FastAPI · Node.js · NestJS · PostgreSQL · MongoDB**
 
 ---
 
